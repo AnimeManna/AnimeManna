@@ -45,6 +45,39 @@ I am a **Front-End Developer** with extensive experience in **React** and relate
 
 ---
 
+## 💼 Current Experience
+
+I am currently working as a **Front-End Developer** on a complex and dynamic project. This role has provided me with valuable experience in solving unconventional challenges and making creative decisions. I have been actively involved in optimizing the project and conducting performance audits to ensure smooth and efficient operation.
+
+I truly enjoy the learning opportunities and challenges this project offers, and I continue to improve my skills in development, problem-solving, and performance optimization.
+
+---
+
+## 🧪 My Experiments
+
+I enjoy exploring and experimenting with various technologies and projects outside of commercial development. Some of these experiments include:
+
+- Learning **Python** and creating small utility scripts.
+- Developing simple projects in **C++**, including graphics and game logic prototypes.
+- Experimenting with **Google Translate API** to automate translations for fun projects.
+- Diving into the fundamentals of **game development**, studying game mechanics, rendering, and optimization techniques.
+
+---
+
+### **Technologies in My Experiments**
+
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="36" height="36" alt="Google API" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="36" height="36" alt="Blender" />
+</p>
+
+I find these experiments exciting and a great way to expand my knowledge across different areas of development.
+
+---
+
 ## 🎓 Education
 
 - **Dnipro National University**  

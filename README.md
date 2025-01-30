@@ -1,4 +1,4 @@
-# Hello! I'm **AnimeManna**. Welcome to my GitHub profile!
+# Hello! I'm **Maksym Hladko**. Welcome to my GitHub profile!
 
 I am a **Front-End Developer** with extensive experience in **React** and related technologies.
 
